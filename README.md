@@ -10,7 +10,7 @@ It targets similar compression rates at higher compression and decompression spe
 Files
 -----
     README.md                             This file ;-)
-    Makefile                              Linux / macOS Makefile
+    Makefile                              Linux / OS X Makefile
     lzfse.xcodeproj                       Xcode project
 
     src/lzfse.h                           Main LZFSE header
